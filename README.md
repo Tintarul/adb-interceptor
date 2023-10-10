@@ -63,7 +63,7 @@
 	<p>Feel free to contribute to this project by forking the repository and creating a pull request. Your contributions are always welcome!</p>
 	<h2>License</h2>
 	<p>This project is licensed under the 
-		<a href="LICENSE.md">MIT License</a> - see the 
+		<a href="LICENSE.md">APACHE 2 License</a> - see the 
 		<a href="LICENSE.md">LICENSE.md</a> file for details.
 	</p>
 	<p>
