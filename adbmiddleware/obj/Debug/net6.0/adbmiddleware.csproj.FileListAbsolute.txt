@@ -1,0 +1,14 @@
+C:\Users\KKKKKKKK\source\repos\adbmiddleware\adbmiddleware\bin\Debug\net6.0\adbmiddleware.exe
+C:\Users\KKKKKKKK\source\repos\adbmiddleware\adbmiddleware\bin\Debug\net6.0\adbmiddleware.deps.json
+C:\Users\KKKKKKKK\source\repos\adbmiddleware\adbmiddleware\bin\Debug\net6.0\adbmiddleware.runtimeconfig.json
+C:\Users\KKKKKKKK\source\repos\adbmiddleware\adbmiddleware\bin\Debug\net6.0\adbmiddleware.dll
+C:\Users\KKKKKKKK\source\repos\adbmiddleware\adbmiddleware\bin\Debug\net6.0\adbmiddleware.pdb
+C:\Users\KKKKKKKK\source\repos\adbmiddleware\adbmiddleware\obj\Debug\net6.0\adbmiddleware.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KKKKKKKK\source\repos\adbmiddleware\adbmiddleware\obj\Debug\net6.0\adbmiddleware.AssemblyInfoInputs.cache
+C:\Users\KKKKKKKK\source\repos\adbmiddleware\adbmiddleware\obj\Debug\net6.0\adbmiddleware.AssemblyInfo.cs
+C:\Users\KKKKKKKK\source\repos\adbmiddleware\adbmiddleware\obj\Debug\net6.0\adbmiddleware.csproj.CoreCompileInputs.cache
+C:\Users\KKKKKKKK\source\repos\adbmiddleware\adbmiddleware\obj\Debug\net6.0\adbmiddleware.dll
+C:\Users\KKKKKKKK\source\repos\adbmiddleware\adbmiddleware\obj\Debug\net6.0\refint\adbmiddleware.dll
+C:\Users\KKKKKKKK\source\repos\adbmiddleware\adbmiddleware\obj\Debug\net6.0\adbmiddleware.pdb
+C:\Users\KKKKKKKK\source\repos\adbmiddleware\adbmiddleware\obj\Debug\net6.0\adbmiddleware.genruntimeconfig.cache
+C:\Users\KKKKKKKK\source\repos\adbmiddleware\adbmiddleware\obj\Debug\net6.0\ref\adbmiddleware.dll
